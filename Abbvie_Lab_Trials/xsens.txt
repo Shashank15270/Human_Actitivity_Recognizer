@@ -1,0 +1,2 @@
+wrist = 00B4381A
+ankle = 00B43876
